@@ -37,7 +37,10 @@ public class NewYearBox implements GiftBox {
     public void removeLastSweet() {
         int i = sweets.length-1;
         for (; sweets[i] == null ;i--){
-
+            if (i == 0 && sweets[i] == null) {
+                System.out.println("No sweets in box!");
+                return;
+            }
         }
         sweets[i] = null;
     }

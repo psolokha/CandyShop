@@ -46,6 +46,26 @@ public class Main {
         nyBox.printBoxWeight();
         nyBox.printBoxPrice();
 
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+        nyBox.removeLastSweet();
+
+
 
     }
 }
